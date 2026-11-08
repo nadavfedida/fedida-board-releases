@@ -1,9 +1,9 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/nadavfedida/fedida-board-releases/releases/download/v0.1.0/fedida-board-0.1.0.tar.gz",
-  "sha256": "c736cfb01672fdc1dd5384ebcc2f6fe1000d59b07b6e2f3fbf69c1ea7eefad34",
-  "sig": "0fWtvVzWW2b2KzPr34Y/g+m+c7eKYV0AirC99jX16TklMQPjd5Ia9LxiiU9UUg48giThIvUv4NOcl5O3S6unDg==",
-  "notes": "First release: dock, daily ticks, habits service",
-  "layout": false,
+  "version": "0.2.0",
+  "url": "https://github.com/nadavfedida/fedida-board-releases/releases/download/v0.2.0/fedida-board-0.2.0.tar.gz",
+  "sha256": "d1290dc7aaae7b22d7daf3c0219e5ead2bf6ca745b2fe54208cc3b5d6d1f993b",
+  "sig": "MnI78n9f0Y5a/Yh8Spt7CCjDiYaAth8xX+UHUfS57NuxGwBgiTDh7bZlvvdVntVeuzIUQo6hzXnaIc8th1GxBQ==",
+  "notes": "Calendar with tap-a-day tasks, to-do + shopping, meal planner with drag and drop, tonight's dinner, bins with tick-off, habits column, Maps with leave-by planner, Time-to-leave banner, golf notes in docs",
+  "layout": true,
   "assets": false
 }
