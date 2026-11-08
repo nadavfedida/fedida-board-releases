@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "url": "https://github.com/nadavfedida/fedida-board-releases/releases/download/v0.1.0/fedida-board-0.1.0.tar.gz",
+  "sha256": "c736cfb01672fdc1dd5384ebcc2f6fe1000d59b07b6e2f3fbf69c1ea7eefad34",
+  "sig": "0fWtvVzWW2b2KzPr34Y/g+m+c7eKYV0AirC99jX16TklMQPjd5Ia9LxiiU9UUg48giThIvUv4NOcl5O3S6unDg==",
+  "notes": "First release: dock, daily ticks, habits service",
+  "layout": false,
+  "assets": false
+}
