@@ -1,9 +1,9 @@
 {
-  "version": "0.3.31",
-  "url": "https://github.com/nadavfedida/fedida-board-releases/releases/download/v0.3.31/fedida-board-0.3.31.tar.gz",
-  "sha256": "7feda7baca7e38a8c1f7081c8abc2377fc40b5d94e3910151b9c7c26db576c2d",
-  "sig": "72FHAZCg+y98rxhjdb18869r6DiYfblwTufQ7QnwRx2jZEsPuphSXXyHZFpUAmKlmZ/EbyxxkSAK67xXBu9BDA==",
-  "notes": "Fedida Board 0.3.31: Ring doorbell, hardening, layout and performance fixes",
+  "version": "0.3.32",
+  "url": "https://github.com/nadavfedida/fedida-board-releases/releases/download/v0.3.32/fedida-board-0.3.32.tar.gz",
+  "sha256": "d4d2587cc1dd6038f080a0fcb69af59f0971f2b5a27d75dcd8c12000b13a8c42",
+  "sig": "dEUWmrnFPr4yzzDIhBY69Cu5EeTQtSOXxRgbqIGWf+w7+J73gRyJP3Qr/w004HZ02UOCy7hd+Yqry0i+2IwfBg==",
+  "notes": "Fedida Board 0.3.32: bin days on the Home screen only",
   "layout": true,
   "assets": false
 }
