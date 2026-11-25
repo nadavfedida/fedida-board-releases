@@ -1,9 +1,9 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/nadavfedida/fedida-board-releases/releases/download/v0.2.0/fedida-board-0.2.0.tar.gz",
-  "sha256": "d1290dc7aaae7b22d7daf3c0219e5ead2bf6ca745b2fe54208cc3b5d6d1f993b",
-  "sig": "MnI78n9f0Y5a/Yh8Spt7CCjDiYaAth8xX+UHUfS57NuxGwBgiTDh7bZlvvdVntVeuzIUQo6hzXnaIc8th1GxBQ==",
-  "notes": "Calendar with tap-a-day tasks, to-do + shopping, meal planner with drag and drop, tonight's dinner, bins with tick-off, habits column, Maps with leave-by planner, Time-to-leave banner, golf notes in docs",
+  "version": "0.3.31",
+  "url": "https://github.com/nadavfedida/fedida-board-releases/releases/download/v0.3.31/fedida-board-0.3.31.tar.gz",
+  "sha256": "7feda7baca7e38a8c1f7081c8abc2377fc40b5d94e3910151b9c7c26db576c2d",
+  "sig": "72FHAZCg+y98rxhjdb18869r6DiYfblwTufQ7QnwRx2jZEsPuphSXXyHZFpUAmKlmZ/EbyxxkSAK67xXBu9BDA==",
+  "notes": "Fedida Board 0.3.31: Ring doorbell, hardening, layout and performance fixes",
   "layout": true,
   "assets": false
 }
